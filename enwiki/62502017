@@ -1,0 +1,140 @@
+{
+  "title": "Eddy Boissezon",
+  "pageID": 62502017,
+  "categories": [
+    "Living people",
+    "Vice-presidents of Mauritius",
+    "Government ministers of Mauritius",
+    "Mauritian Militant Movement politicians",
+    "Barclays people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marie Cyril Eddy Boissezon has been the sixth vice president of Mauritius since December 2019.",
+              "links": [
+                {
+                  "text": "vice president of Mauritius",
+                  "type": "internal",
+                  "page": "vice president of Mauritius"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Marie Cyril Eddy Boissezon"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He worked at Barclays Bank and as Human Resources Manager at Scott & Co.Ltd."
+            },
+            {
+              "text": "He was also General Manager at ATICS & Co.Ltd."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A former member of MMM, he joined Muvman Liberater in 2014, and was the secretary general of the party.",
+              "links": [
+                {
+                  "text": "MMM",
+                  "type": "internal",
+                  "page": "Mauritian Militant Movement"
+                },
+                {
+                  "type": "internal",
+                  "page": "Muvman Liberater"
+                }
+              ]
+            },
+            {
+              "text": "He was a member of the parliament since December 2014."
+            },
+            {
+              "text": "Boissezon was appointed Minister of Civil Service and Administrative Reforms in January 2017, and served until November 2019."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Eddy Boissezon"
+          },
+          "order": {
+            "text": "6th"
+          },
+          "office": {
+            "text": "Vice President of Mauritius"
+          },
+          "president": {
+            "text": "Prithvirajsing Roopun",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prithvirajsing Roopun"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2 December 2019"
+          },
+          "predecessor": {
+            "text": "Barlen Vyapoory",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Barlen Vyapoory"
+              }
+            ]
+          },
+          "party": {
+            "text": "Muvman Liberater",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muvman Liberater"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://mauritiusassembly.govmu.org/English/hmembers/Pages/Boissezon-Marie-Cyril-Eddy.aspx",
+          "title": "National Assembly - Boissezon Marie Cyril Eddy",
+          "website": "mauritiusassembly.govmu.org",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://allafrica.com/stories/201912020598.html",
+          "title": "Mauritius: National Assembly Elects Mr Prithvirajsing Roopun As President of the Republic of Mauritius",
+          "date": "December 2, 2019",
+          "website": "allAfrica.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://defimedia.info/eddy-boissezon-de-conseiller-municipal-vice-president-de-la-republique",
+          "title": "Eddy Boissezon : de conseiller municipal à vice-président de la République",
+          "website": "Le Defi Media Group",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

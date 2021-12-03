@@ -1,0 +1,227 @@
+{
+  "title": "Alan Ganoo",
+  "pageID": 41884342,
+  "categories": [
+    "1951 births",
+    "Living people",
+    "Alumni of King's College London",
+    "Members of the National Assembly (Mauritius)",
+    "Speakers of the National Assembly (Mauritius)",
+    "Mauritian Militant Movement politicians",
+    "Place of birth missing (living people)",
+    "Mauritian politicians of Indian descent",
+    "Government ministers of Mauritius"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Honourable Alan Ganoo (born 17 January 1951) is a Mauritian politician who has been elected to serve as member of the Legislative Assembly and National Assembly on 9 occasions.",
+              "formatting": {
+                "bold": [
+                  "Honourable Alan Ganoo"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mauritian politician",
+          "template": "short description"
+        },
+        {
+          "date": "May 2020",
+          "template": "blp sources"
+        },
+        {
+          "date": "May 2020",
+          "template": "like resume"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
+          "date": "May 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1951",
+          "month": "01",
+          "day": "17",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Alan Ganoo"
+          },
+          "image": {
+            "text": "Alan Ganoo.jpg"
+          },
+          "office": {
+            "text": "Minister of Land Transport and Light Rail",
+            "links": [
+              {
+                "text": "Minister of Land Transport and Light Rail",
+                "type": "internal",
+                "page": "Minister of Land Transport and Light Rail (Mauritius)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Pravind Jugnauth",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pravind Jugnauth"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 November 2019"
+          },
+          "office1": {
+            "text": "Leader of the Opposition",
+            "links": [
+              {
+                "text": "Leader of the Opposition",
+                "type": "internal",
+                "page": "Leader of the Opposition (Mauritius)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "28 January 2013"
+          },
+          "term_end1": {
+            "text": "1 October 2013"
+          },
+          "predecessor1": {
+            "text": "Paul Bérenger",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paul Bérenger"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Paul Bérenger",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paul Bérenger"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Speaker of the Legislative Assembly",
+            "links": [
+              {
+                "text": "Speaker of the Legislative Assembly",
+                "type": "internal",
+                "page": "List of Speakers of the National Assembly of Mauritius"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "18 June 1982"
+          },
+          "term_end2": {
+            "text": "4 September 1983"
+          },
+          "predecessor2": {
+            "text": "Sir Ramesh Jeewoolall",
+            "links": [
+              {
+                "text": "Sir Ramesh Jeewoolall",
+                "type": "internal",
+                "page": "Ramesh Jeewoolall"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Ajay Daby",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ajay Daby"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Speaker of the National Assembly",
+            "links": [
+              {
+                "text": "Speaker of the National Assembly",
+                "type": "internal",
+                "page": "List of Speakers of the National Assembly of Mauritius"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "12 January 1996"
+          },
+          "term_end3": {
+            "text": "17 January 1996"
+          },
+          "predecessor3": {
+            "text": "Iswardeo Seetaram",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iswardeo Seetaram"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Sir Ramesh Jeewoolall",
+            "links": [
+              {
+                "text": "Sir Ramesh Jeewoolall",
+                "type": "internal",
+                "page": "Ramesh Jeewoolall"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 17, 1951"
+          },
+          "birth_place": {
+            "text": "Port Louis, British Mauritius",
+            "links": [
+              {
+                "text": "Port Louis, British Mauritius",
+                "type": "internal",
+                "page": "Port Louis"
+              }
+            ]
+          },
+          "party": {
+            "text": "Mouvement Patriotique Alan Ganoo"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "date": "February 2021",
+          "template": "citation needed"
+        }
+      ]
+    }
+  ]
+}

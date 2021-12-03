@@ -1,0 +1,101 @@
+{
+  "title": "Fazila Jeewa-Daureeawoo",
+  "pageID": 66845808,
+  "categories": [
+    "Living people",
+    "Mauritian lawyers",
+    "Militant Socialist Movement politicians",
+    "Women government ministers of Mauritius",
+    "Members of the National Assembly (Mauritius)",
+    "Vice Prime Ministers of Mauritius",
+    "Year of birth missing (living people)",
+    "21st-century women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fazila Jeewa-Daureeawoo is a Mauritian politician who has served in various ministerial positions as a member of the Militant Socialist Movement.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mauritian"
+                },
+                {
+                  "type": "internal",
+                  "page": "Militant Socialist Movement"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Fazila Jeewa-Daureeawoo"
+                ]
+              }
+            },
+            {
+              "text": "She represents Constituency No. 19 in the National Assembly.",
+              "links": [
+                {
+                  "text": "Constituency No. 19",
+                  "type": "internal",
+                  "page": "Constituencies of Mauritius",
+                  "anchor": "Constituency No. 19"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Mauritius)"
+                }
+              ]
+            },
+            {
+              "text": "She is the first woman to hold the position of Vice Prime Minister.",
+              "links": [
+                {
+                  "text": "Vice Prime Minister",
+                  "type": "internal",
+                  "page": "Vice Prime Minister of Mauritius"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mauritian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Bio-data of Honourable Fazila Daureeawoo-Jeewa GCSK, MP",
+          "url": "https://mauritiusassembly.govmu.org/Pages/HonMembers/Hon-Daureeawoo-Jeewa-Fazila.aspx",
+          "website": "Mauritius National Assembly",
+          "access-date": "21 February 2021",
+          "archive-date": "26 November 2020",
+          "archive-url": "https://web.archive.org/web/20201126160820/https://mauritiusassembly.govmu.org/Pages/HonMembers/Hon-Daureeawoo-Jeewa-Fazila.aspx",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Cabinet reshuffle : Roubina Jadoo-Jaunbocus minister, Fazila Jeewa-Daureeawoo Vice Prime Minister",
+          "url": "https://defimedia.info/cabinet-reshuffle-roubina-jadoo-jaunbocus-minister-fazila-jeewa-daureeawoo-vice-prime-minister",
+          "access-date": "21 February 2021",
+          "work": "Le Défi Plus",
+          "date": "17 November 2017",
+          "archive-date": "27 November 2019",
+          "archive-url": "https://web.archive.org/web/20191127183622/https://www.defimedia.info/cabinet-reshuffle-roubina-jadoo-jaunbocus-minister-fazila-jeewa-daureeawoo-vice-prime-minister",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

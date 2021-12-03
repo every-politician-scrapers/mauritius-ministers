@@ -1,0 +1,137 @@
+{
+  "title": "Kailesh Jagutpal",
+  "pageID": 65230341,
+  "categories": [
+    "1969 births",
+    "Living people",
+    "Mauritian physicians",
+    "Government ministers of Mauritius",
+    "Banaras Hindu University people",
+    "Members of the National Assembly (Mauritius)",
+    "Militant Socialist Movement politicians",
+    "Mauritian Hindus",
+    "Mauritian politicians of Indian descent"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dr. Kailesh Kumar Singh Jagutpal, more commonly known as Kailesh Jagutpal (born 1 November 1969) is a Mauritian politician.",
+              "links": [
+                {
+                  "text": "Mauritian",
+                  "type": "internal",
+                  "page": "Mauritius"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dr. Kailesh Kumar Singh Jagutpal",
+                  "Kailesh Jagutpal"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mauritian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1969",
+          "month": "11",
+          "day": "01",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Right Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Right Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Kailesh Jagutpal"
+          },
+          "honorific-suffix": {
+            "text": "MP"
+          },
+          "order": {
+            "text": "Minister of Health"
+          },
+          "president": {
+            "text": "Pradeep Roopun",
+            "links": [
+              {
+                "text": "Pradeep Roopun",
+                "type": "internal",
+                "page": "Prithvirajsing Roopun"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Pravind Jugnauth",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pravind Jugnauth"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 November 2019"
+          },
+          "predecessor": {
+            "text": "Anwar Husnoo"
+          },
+          "birth_date": {
+            "text": "November 1, 1969"
+          },
+          "birth_place": {
+            "text": "Grand Bois, Mauritius",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mauritius"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Vacoas-Phoenix"
+          },
+          "party": {
+            "text": "MSM",
+            "links": [
+              {
+                "text": "MSM",
+                "type": "internal",
+                "page": "Mouvement Socialiste Mauricien"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Banaras Hindu University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Banaras Hindu University"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
