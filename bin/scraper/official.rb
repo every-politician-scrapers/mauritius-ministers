@@ -4,20 +4,36 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
+class String
+  def ztidy
+    gsub(/[\u200B-\u200D\uFEFF]/, '').tidy
+  end
+end
+
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      lines[1].gsub(/the hon /i, '')
     end
 
     def position
-      noko.css('.position').text.tidy
+      lines.drop(2)
+    end
+
+    private
+
+    def lines
+      noko.css('td').xpath('.//text()').map(&:text).map(&:ztidy).reject(&:empty?)
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.ms-rteTable-2 tr')
+    end
+
+    def member_items
+      super.reject { |mem| mem.name == 'Port Louis' }
     end
   end
 end
