@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Mauritius",
+      "id": "Q1027"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q86681058",
+      "start": "2019-11-12",
+      "parent": "Q7720898"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://pmo.govmu.org/Pages/My_Cabinet.aspx",
+        "title": "Prime Minister's Office | List of Ministers",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/mauritius-ministers"
 }
