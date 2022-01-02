@@ -110,30 +110,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://mauritiusassembly.govmu.org/English/hmembers/Pages/Boissezon-Marie-Cyril-Eddy.aspx",
-          "title": "National Assembly - Boissezon Marie Cyril Eddy",
-          "website": "mauritiusassembly.govmu.org",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://allafrica.com/stories/201912020598.html",
-          "title": "Mauritius: National Assembly Elects Mr Prithvirajsing Roopun As President of the Republic of Mauritius",
-          "date": "December 2, 2019",
-          "website": "allAfrica.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://defimedia.info/eddy-boissezon-de-conseiller-municipal-vice-president-de-la-republique",
-          "title": "Eddy Boissezon : de conseiller municipal à vice-président de la République",
-          "website": "Le Defi Media Group",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

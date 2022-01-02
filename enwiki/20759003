@@ -514,57 +514,6 @@
             "text": "University of Buckingham\n\nInns of Court School of Law\n\nAix-Marseille University"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://electoral.govmu.org/English/electionresult/nasselec/Documents/2014/Const.%20No.%208.pdf",
-          "title": "Constituency No.8 - Quartier Militaire and Moka",
-          "website": "Electoral.govmu.org",
-          "access-date": "12 November 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://mauritiusassembly.govmu.org/Pages/HonMembers/Hon-Jugnauth-Pravind-Kumar.aspx",
-          "title": "Hon. JUGNAUTH Pravind Kumar",
-          "website": "mauritiusassembly.govmu.org",
-          "access-date": "7 June 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Lansford",
-          "first1": "Tom",
-          "title": "Political Handbook of the World 2015",
-          "date": "2015",
-          "publisher": "MTM Publishing Inc.",
-          "isbn": "9781483371573",
-          "edition": "1",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "url": "http://www.gov.mu/portal/site/GovtHomePagesite/menuitem.c0a01177fcf48dfcf6be501054508a0c/?content_id=dc12d575d1a88010VgnVCM100000ca6a12acRCRD",
-          "title": "Archived copy",
-          "access-date": "2009-09-30",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20091023134507/http://www.gov.mu/portal/site/GovtHomePagesite/menuitem.c0a01177fcf48dfcf6be501054508a0c/?content_id=dc12d575d1a88010VgnVCM100000ca6a12acRCRD",
-          "archive-date": "23 October 2009",
-          "df": "dmy-all",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.gov.mu/portal/goc/assemblysite/file/hansardd0109v2.pdf",
-          "title": "Archived copy",
-          "access-date": "2009-04-12",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20090509070906/http://www.gov.mu/portal/goc/assemblysite/file/hansardd0109v2.pdf",
-          "archive-date": "9 May 2009",
-          "df": "dmy-all",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
