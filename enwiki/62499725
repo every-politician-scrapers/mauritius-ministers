@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Prithvirajsing Roopun GCSK (born 24 May 1959), also known as Pradeep Singh Roopun, is a Mauritian politician serving as the seventh and current president of Mauritius since 2019.",
+              "text": "Prithvirajsing Roopun GCSK (born 24 May 1959), also known as Pradeep Singh Roopun, is a Mauritian politician serving as the seventh president of Mauritius since 2019.",
               "links": [
                 {
                   "text": "GCSK",
@@ -44,6 +44,10 @@
         {
           "description": "Seventh President of Mauritius",
           "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "blp sources"
         },
         {
           "date": "July 2020",
