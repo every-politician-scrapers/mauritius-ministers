@@ -27,11 +27,12 @@
         {
           "sentences": [
             {
-              "text": "Pravind Kumar Jugnauth (born 25 December 1961) is a Mauritian politician serving as the current Prime Minister of Mauritius since January 2017.",
+              "text": "Pravind Kumar Jugnauth (born 25 December 1961) is a Mauritian politician serving as the prime minister of Mauritius since January 2017.",
               "links": [
                 {
+                  "text": "prime minister of Mauritius",
                   "type": "internal",
-                  "page": "Prime Minister of Mauritius"
+                  "page": "prime minister of Mauritius"
                 }
               ],
               "formatting": {
@@ -41,7 +42,7 @@
               }
             },
             {
-              "text": "Pravind Jugnauth has been the leader of the Militant Socialist Movement (MSM) party since April 2003.",
+              "text": "Jugnauth has been the leader of the Militant Socialist Movement (MSM) party since April 2003.",
               "links": [
                 {
                   "type": "internal",
