@@ -109,13 +109,20 @@
             "text": "Pravind Kumar Jugnauth"
           },
           "honorific-suffix": {
-            "text": "MP"
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
           },
           "image": {
-            "text": "Pravind Jugnauth.png"
+            "text": "The Prime Minister, Shri Narendra Modi meeting the Prime Minister of the Republic of Mauritius, Mr. Pravind Kumar Jugnauth, in New Delhi on December 06, 2019 (1) (cropped).jpg"
           },
           "caption": {
-            "text": "Jugnauth in 2011"
+            "text": "Jugnauth in 2019"
           },
           "office": {
             "text": "5th Prime Minister of Mauritius",
