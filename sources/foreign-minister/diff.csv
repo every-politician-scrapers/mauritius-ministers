@@ -10,18 +10,9 @@
 +++,Madan Dulloo,Q3275413,1990,1990
 +++,Jean-Claude de l'Estrac,,1990,1991
 +++,Paul Bérenger,Q138970,1991,1992
-+++,Paul Bérenger,Q138970,1992,1993
 ->,Swalay Kasenally,Q108443121->NULL,1993,1994
 ->,Ramduthsing Jaddoo,Q108443122->NULL,1994,1995
-+++,Paul Bérenger,Q138970,1995,1997
-+++,Navin Ramgoolam,Q57836,1997,1997
-+++,Kailash Purryag,Q57545,1997,2000
-+++,Anil Gayan,Q4764635,2000,2003
-+++,Jaya Krishna Cuttaree,Q3163283,2003,2005
-+++,Madan Dulloo,Q3275413,2005,2008
-+++,Arvin Boolell,Q58260,2008,2014
-+++,Navin Ramgoolam,Q57836,2008,2008
 +++,Étienne Sinatambou,,2014,2016
-+++,Seetanah Lutchmeenaraidoo,,2016,2019
+->,Seetanah Lutchmeenaraidoo,Q3561012->NULL,2016,2019
 ->,Nando Bodha,Q3335632,2019-11-12->2019,2021-02-06->2021
 ->,Alan Ganoo,Q15733912,2019-11-12->2021,NULL->2021
