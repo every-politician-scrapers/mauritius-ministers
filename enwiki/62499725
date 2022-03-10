@@ -1,320 +1,41 @@
 {
-  "title": "Prithvirajsing Roopun",
-  "pageID": 62499725,
-  "categories": [
-    "1959 births",
-    "Living people",
-    "Government ministers of Mauritius",
-    "Militant Socialist Movement politicians",
-    "Presidents of Mauritius",
-    "People from Plaines Wilhems District"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Prithvirajsing Roopun GCSK (born 24 May 1959), also known as Pradeep Singh Roopun, is a Mauritian politician serving as the seventh president of Mauritius since 2019.",
-              "links": [
-                {
-                  "text": "GCSK",
-                  "type": "internal",
-                  "page": "Order of the Star and Key of the Indian Ocean"
-                },
-                {
-                  "text": "president of Mauritius",
-                  "type": "internal",
-                  "page": "president of Mauritius"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Prithvirajsing Roopun",
-                  "Pradeep Singh Roopun"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Seventh President of Mauritius",
-          "template": "short description"
-        },
-        {
-          "date": "January 2022",
-          "template": "blp sources"
-        },
-        {
-          "date": "July 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1959",
-          "month": "5",
-          "day": "24",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "pʁitviʁad͡ʒsiŋ ʁupʌn"
-          ],
-          "template": "ipa-mfe"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "type": "internal",
-                "page": "His Excellency"
-              }
-            ]
-          },
-          "name": {
-            "text": "Prithvirajsing Roopun"
-          },
-          "honorific-suffix": {
-            "text": "GCSK",
-            "links": [
-              {
-                "text": "GCSK",
-                "type": "internal",
-                "page": "Order of the Star and Key of the Indian Ocean"
-              }
-            ]
-          },
-          "image": {
-            "text": "Prithvirajsing Roopun.png"
-          },
-          "caption": {
-            "text": "Roopun in 2017"
-          },
-          "office": {
-            "text": "7th President of Mauritius",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Mauritius"
-              }
-            ]
-          },
-          "vicepresident": {
-            "text": "Eddy Boissezon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eddy Boissezon"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Pravind Jugnauth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pravind Jugnauth"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "2 December 2019"
-          },
-          "predecessor": {
-            "text": "Ameenah Gurib Barlen Vyapoory (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ameenah Gurib"
-              },
-              {
-                "type": "internal",
-                "page": "Barlen Vyapoory"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Arts and Culture"
-          },
-          "president1": {
-            "text": "Ameenah Gurib (acting) Barlen Vyapoory",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ameenah Gurib"
-              },
-              {
-                "type": "internal",
-                "page": "Barlen Vyapoory"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "24 January 2017"
-          },
-          "term_end1": {
-            "text": "12 November 2019"
-          },
-          "predecessor1": {
-            "text": "Dan Babboo"
-          },
-          "successor1": {
-            "text": "Avinash Teeluck"
-          },
-          "president2": {
-            "text": "Kailash Purryag Ameenah Gurib",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kailash Purryag"
-              },
-              {
-                "type": "internal",
-                "page": "Ameenah Gurib"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "21 December 2016"
-          },
-          "term_end2": {
-            "text": "23 January 2017"
-          },
-          "predecessor2": {
-            "text": "Seewoosagur Ramgoolam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Seewoosagur Ramgoolam"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Navin Ramgoolam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Navin Ramgoolam"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Social Integration and Economic Empowerment"
-          },
-          "president3": {
-            "text": "Ameenah Gurib",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ameenah Gurib"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Anerood Jugnauth\nPravind Jugnauth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anerood Jugnauth"
-              },
-              {
-                "type": "internal",
-                "page": "Pravind Jugnauth"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "15 December 2014"
-          },
-          "term_end3": {
-            "text": "24 January 2017"
-          },
-          "successor3": {
-            "text": "Alain Wong"
-          },
-          "office4": {
-            "text": "3rd Member of Parliament\nfor Constituency No. 9 (Flacq and Bon Accueil)",
-            "links": [
-              {
-                "text": "Constituency No. 9 (Flacq and Bon Accueil)",
-                "type": "internal",
-                "page": "Constituencies of Mauritius"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "5 May 2010"
-          },
-          "term_end4": {
-            "text": "7 November 2019"
-          },
-          "predecessor4": {
-            "text": "Dharam Gokhool"
-          },
-          "successor4": {
-            "text": "Vikram Hurdoyal"
-          },
-          "birth_date": {
-            "text": "May 24, 1959"
-          },
-          "birth_place": {
-            "text": "Quatre Bornes, British Mauritius",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Quatre Bornes"
-              },
-              {
-                "type": "internal",
-                "page": "British Mauritius"
-              }
-            ]
-          },
-          "party": {
-            "text": "Militant Socialist Movement (1983–2019)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Militant Socialist Movement"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Sayukta Roopun"
-          },
-          "children": {
-            "text": "4",
-            "number": 4
-          },
-          "profession": {
-            "text": "Attorney",
-            "links": [
-              {
-                "text": "Attorney",
-                "type": "internal",
-                "page": "Lawyer"
-              }
-            ]
-          },
-          "residence": {
-            "text": "State House",
-            "links": [
-              {
-                "text": "State House",
-                "type": "internal",
-                "page": "State House (Mauritius)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "His Excellency",
+  "name": "Prithvirajsing Roopun",
+  "honorific-suffix": "GCSK",
+  "image": "Prithvirajsing Roopun.png",
+  "caption": "Roopun in 2017",
+  "office": "7th President of Mauritius",
+  "vicepresident": "Eddy Boissezon",
+  "primeminister": "Pravind Jugnauth",
+  "term_start": "2 December 2019",
+  "predecessor": "Ameenah Gurib Barlen Vyapoory (acting)",
+  "office1": "Minister of Arts and Culture",
+  "president1": "Ameenah Gurib (acting) Barlen Vyapoory",
+  "term_start1": "24 January 2017",
+  "term_end1": "12 November 2019",
+  "predecessor1": "Dan Babboo",
+  "successor1": "Avinash Teeluck",
+  "president2": "Kailash Purryag Ameenah Gurib",
+  "term_start2": "21 December 2016",
+  "term_end2": "23 January 2017",
+  "predecessor2": "Seewoosagur Ramgoolam",
+  "successor2": "Navin Ramgoolam",
+  "office3": "Minister of Social Integration and Economic Empowerment",
+  "president3": "Ameenah Gurib",
+  "primeminister3": "Anerood Jugnauth\nPravind Jugnauth",
+  "term_start3": "15 December 2014",
+  "term_end3": "24 January 2017",
+  "successor3": "Alain Wong",
+  "office4": "3rd Member of Parliament\nfor Constituency No. 9 (Flacq and Bon Accueil)",
+  "term_start4": "5 May 2010",
+  "term_end4": "7 November 2019",
+  "predecessor4": "Dharam Gokhool",
+  "successor4": "Vikram Hurdoyal",
+  "birth_date": "May 24, 1959",
+  "birth_place": "Quatre Bornes, British Mauritius",
+  "party": "Militant Socialist Movement (1983–2019)",
+  "spouse": "Sayukta Roopun",
+  "children": "4",
+  "profession": "Attorney",
+  "residence": "State House"
 }

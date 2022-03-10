@@ -1,526 +1,66 @@
 {
-  "title": "Pravind Jugnauth",
-  "pageID": 20759003,
-  "categories": [
-    "1961 births",
-    "Children of national leaders",
-    "Government ministers of Mauritius",
-    "Deputy Prime Ministers of Mauritius",
-    "Living people",
-    "Mauritian lawyers",
-    "Mauritian Hindus",
-    "Mauritian politicians of Indian descent",
-    "Members of the National Assembly (Mauritius)",
-    "Militant Socialist Movement politicians",
-    "People from Plaines Wilhems District",
-    "University of Provence alumni",
-    "Prime Ministers of Mauritius",
-    "Vice Prime Ministers of Mauritius",
-    "Ministers of Finance of Mauritius",
-    "Defense ministers of Mauritius",
-    "Interior ministers of Mauritius",
-    "Recipients of Pravasi Bharatiya Samman"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Pravind Kumar Jugnauth (born 25 December 1961) is a Mauritian politician serving as the prime minister of Mauritius since January 2017.",
-              "links": [
-                {
-                  "text": "prime minister of Mauritius",
-                  "type": "internal",
-                  "page": "prime minister of Mauritius"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Pravind Kumar Jugnauth"
-                ]
-              }
-            },
-            {
-              "text": "Jugnauth has been the leader of the Militant Socialist Movement (MSM) party since April 2003.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Militant Socialist Movement"
-                }
-              ]
-            },
-            {
-              "text": "He has held a number of ministerial portfolios and also been Leader of the Opposition."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Prime Minister of Mauritius since 2017",
-          "template": "short description"
-        },
-        {
-          "date": "November 2017",
-          "template": "blp sources"
-        },
-        {
-          "date": "December 2014",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Member of the National Assembly",
-            "for Quartier Militaire and Moka"
-          ],
-          "template": "ubl"
-        },
-        {
-          "year": "1961",
-          "month": "12",
-          "day": "25",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "University of Buckingham",
-            "Inns of Court School of Law",
-            "Aix-Marseille University"
-          ],
-          "template": "ubl"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Pravind Kumar Jugnauth"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "The Prime Minister, Shri Narendra Modi meeting the Prime Minister of the Republic of Mauritius, Mr. Pravind Kumar Jugnauth, in New Delhi on December 06, 2019 (1) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Jugnauth in 2019"
-          },
-          "office": {
-            "text": "5th Prime Minister of Mauritius",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prime Minister of Mauritius"
-              }
-            ]
-          },
-          "president": {
-            "text": "Ameenah Gurib-Fakim\nBarlen Vyapoory (acting)\nEddy Balancy (acting)\nPradeep Roopun",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ameenah Gurib-Fakim"
-              },
-              {
-                "type": "internal",
-                "page": "Barlen Vyapoory"
-              },
-              {
-                "type": "internal",
-                "page": "Eddy Balancy"
-              },
-              {
-                "type": "internal",
-                "page": "Pradeep Roopun"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Louis Steven Obeegadoo"
-          },
-          "term_start": {
-            "text": "23 January 2017"
-          },
-          "predecessor": {
-            "text": "Anerood Jugnauth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anerood Jugnauth"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Finance",
-            "links": [
-              {
-                "text": "Minister of Finance",
-                "type": "internal",
-                "page": "Ministry of Finance and Economic Development (Mauritius)"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Anerood Jugnauth\nhimself",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anerood Jugnauth"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "himself"
-              ]
-            }
-          },
-          "term_start1": {
-            "text": "26 May 2016"
-          },
-          "predecessor1": {
-            "text": "Anerood Jugnauth (Acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anerood Jugnauth"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Navin Ramgoolam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Navin Ramgoolam"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "11 May 2009"
-          },
-          "term_end2": {
-            "text": "26 July 2011"
-          },
-          "predecessor2": {
-            "text": "Rama Sithanen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rama Sithanen"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Xavier Luc Duval",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Xavier Luc Duval"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Paul Berenger",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Berenger"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "7 October 2003"
-          },
-          "term_end3": {
-            "text": "5 July 2005"
-          },
-          "predecessor3": {
-            "text": "Paul Berenger",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Berenger"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Rama Sithanen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rama Sithanen"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Technology, Communication and Innovation"
-          },
-          "primeminister4": {
-            "text": "Anerood Jugnauth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anerood Jugnauth"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "14 December 2014"
-          },
-          "term_end4": {
-            "text": "1 July 2015"
-          },
-          "predecessor4": {
-            "text": "Chedumbrum Pillay"
-          },
-          "successor4": {
-            "text": "Etienne Sinatambou"
-          },
-          "office5": {
-            "text": "11th Leader of Opposition",
-            "links": [
-              {
-                "text": "Leader of Opposition",
-                "type": "internal",
-                "page": "Leader of the Opposition (Mauritius)"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Anerood Jugnauth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anerood Jugnauth"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "15 September 2014"
-          },
-          "term_end5": {
-            "text": "14 December 2014"
-          },
-          "predecessor5": {
-            "text": "Paul Bérenger",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Bérenger"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Paul Bérenger",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Bérenger"
-              }
-            ]
-          },
-          "office6": {
-            "text": "3rd Vice Prime Minister of Mauritius",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vice Prime Minister of Mauritius"
-              }
-            ]
-          },
-          "primeminister6": {
-            "text": "Navin Ramgoolam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Navin Ramgoolam"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "11 May 2010"
-          },
-          "term_end6": {
-            "text": "26 July 2011"
-          },
-          "predecessor6": {
-            "text": "Rama Sithanen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rama Sithanen"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Anil Bachoo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anil Bachoo"
-              }
-            ]
-          },
-          "office7": {
-            "text": "8th Deputy Prime Minister of Mauritius",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Mauritius"
-              }
-            ]
-          },
-          "primeminister7": {
-            "text": "Paul Bérenger",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Bérenger"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "7 October 2003"
-          },
-          "term_end7": {
-            "text": "5 July 2005"
-          },
-          "predecessor7": {
-            "text": "Paul Bérenger",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Bérenger"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Rashid Beebeejaun",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rashid Beebeejaun"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Leader of the Militant Socialist Movement",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Militant Socialist Movement"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "30 October 2003"
-          },
-          "predecessor8": {
-            "text": "Anerood Jugnauth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anerood Jugnauth"
-              }
-            ]
-          },
-          "office9": {
-            "text": "Member of the National Assembly\n\nfor Quartier Militaire and Moka"
-          },
-          "term_start9": {
-            "text": "9 May 2009"
-          },
-          "predecessor9": {
-            "text": "Ashok Jugnauth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ashok Jugnauth"
-              }
-            ]
-          },
-          "majority9": {
-            "text": "20,080 (57.10%)"
-          },
-          "birth_date": {
-            "text": "December 25, 1961"
-          },
-          "birth_place": {
-            "text": "La Caverne, British Mauritius",
-            "links": [
-              {
-                "text": "La Caverne",
-                "type": "internal",
-                "page": "Vacoas-Phoenix"
-              },
-              {
-                "type": "internal",
-                "page": "British Mauritius"
-              }
-            ]
-          },
-          "party": {
-            "text": "Militant Socialist Movement",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Militant Socialist Movement"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Kobita Ramdanee"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "father": {
-            "text": "Anerood Jugnauth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anerood Jugnauth"
-              }
-            ]
-          },
-          "mother": {
-            "text": "Sarojini Ballah",
-            "links": [
-              {
-                "text": "Sarojini Ballah",
-                "type": "internal",
-                "page": "Sarojini Jugnauth"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Buckingham\n\nInns of Court School of Law\n\nAix-Marseille University"
-          },
-          "website": {
-            "text": "https://www.pravindjugnauth.mu/"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "birth_name": "Pravind Kumar Jugnauth",
+  "honorific-suffix": "MP",
+  "image": "The Prime Minister, Shri Narendra Modi meeting the Prime Minister of the Republic of Mauritius, Mr. Pravind Kumar Jugnauth, in New Delhi on December 06, 2019 (1) (cropped).jpg",
+  "caption": "Jugnauth in 2019",
+  "office": "5th Prime Minister of Mauritius",
+  "president": "Ameenah Gurib-Fakim\nBarlen Vyapoory (acting)\nEddy Balancy (acting)\nPradeep Roopun",
+  "deputy": "Louis Steven Obeegadoo",
+  "term_start": "23 January 2017",
+  "predecessor": "Anerood Jugnauth",
+  "office1": "Minister of Finance",
+  "primeminister1": "Anerood Jugnauth\nhimself",
+  "term_start1": "26 May 2016",
+  "predecessor1": "Anerood Jugnauth (Acting)",
+  "primeminister2": "Navin Ramgoolam",
+  "term_start2": "11 May 2009",
+  "term_end2": "26 July 2011",
+  "predecessor2": "Rama Sithanen",
+  "successor2": "Xavier Luc Duval",
+  "primeminister3": "Paul Berenger",
+  "term_start3": "7 October 2003",
+  "term_end3": "5 July 2005",
+  "predecessor3": "Paul Berenger",
+  "successor3": "Rama Sithanen",
+  "office4": "Minister of Technology, Communication and Innovation",
+  "primeminister4": "Anerood Jugnauth",
+  "term_start4": "14 December 2014",
+  "term_end4": "1 July 2015",
+  "predecessor4": "Chedumbrum Pillay",
+  "successor4": "Etienne Sinatambou",
+  "office5": "11th Leader of Opposition",
+  "primeminister5": "Anerood Jugnauth",
+  "term_start5": "15 September 2014",
+  "term_end5": "14 December 2014",
+  "predecessor5": "Paul Bérenger",
+  "successor5": "Paul Bérenger",
+  "office6": "3rd Vice Prime Minister of Mauritius",
+  "primeminister6": "Navin Ramgoolam",
+  "term_start6": "11 May 2010",
+  "term_end6": "26 July 2011",
+  "predecessor6": "Rama Sithanen",
+  "successor6": "Anil Bachoo",
+  "office7": "8th Deputy Prime Minister of Mauritius",
+  "primeminister7": "Paul Bérenger",
+  "term_start7": "7 October 2003",
+  "term_end7": "5 July 2005",
+  "predecessor7": "Paul Bérenger",
+  "successor7": "Rashid Beebeejaun",
+  "office8": "Leader of the Militant Socialist Movement",
+  "term_start8": "30 October 2003",
+  "predecessor8": "Anerood Jugnauth",
+  "office9": "Member of the National Assembly\n\nfor Quartier Militaire and Moka",
+  "term_start9": "9 May 2009",
+  "predecessor9": "Ashok Jugnauth",
+  "majority9": "20,080 (57.10%)",
+  "birth_date": "December 25, 1961",
+  "birth_place": "La Caverne, British Mauritius",
+  "party": "Militant Socialist Movement",
+  "spouse": "Kobita Ramdanee",
+  "children": "3",
+  "father": "Anerood Jugnauth",
+  "mother": "Sarojini Ballah",
+  "alma_mater": "University of Buckingham\n\nInns of Court School of Law\n\nAix-Marseille University",
+  "website": "https://www.pravindjugnauth.mu/"
 }
