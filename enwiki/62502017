@@ -1,9 +1,12 @@
 {
-  "name": "Eddy Boissezon",
+  "name": "Marie Cyril Eddy Boissézon",
   "order": "6th",
   "office": "Vice President of Mauritius",
   "president": "Prithvirajsing Roopun",
   "term_start": "2 December 2019",
   "predecessor": "Barlen Vyapoory",
-  "party": "Muvman Liberater"
+  "party": "Muvman Liberater",
+  "birth_date": "March 28, 1952",
+  "birth_place": "British Mauritius",
+  "spouse": "Connie"
 }
