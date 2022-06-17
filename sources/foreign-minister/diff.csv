@@ -1,18 +1,3 @@
-@@,itemlabel,item,startdate,enddate
-+++,Sir Seewoosagur Ramgoolam,Q2166580,1968,1969
-+++,Gaëtan Duval,Q3099909,1969,1973
-+++,Sir Seewoosagur Ramgoolam,Q2166580,1973,1976
-+++,Sir Harold Walter,,1976,1982
-+++,Jean-Claude de l'Estrac,,1982,1983
-+++,Anil Gayan,Q4764635,1983,1986
-+++,Sir Satcam Boolell,Q5582074,1986,1990
-+++,Madan Dulloo,Q3275413,1986,1986
-+++,Madan Dulloo,Q3275413,1990,1990
-+++,Jean-Claude de l'Estrac,,1990,1991
-+++,Paul Bérenger,Q138970,1991,1992
-->,Swalay Kasenally,Q108443121->NULL,1993,1994
-->,Ramduthsing Jaddoo,Q108443122->NULL,1994,1995
-+++,Étienne Sinatambou,,2014,2016
-->,Seetanah Lutchmeenaraidoo,Q3561012->NULL,2016,2019
-->,Nando Bodha,Q3335632,2019-11-12->2019,2021-02-06->2021
-->,Alan Ganoo,Q15733912,2019-11-12->2021,NULL->2021
+@@,item,itemlabel,startdate,enddate
++++,,Étienne Sinatambou,2014,2016
+->,Q15733912,Alan Ganoo,2019-11-12->2021,NULL->2021
