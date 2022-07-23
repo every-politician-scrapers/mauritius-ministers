@@ -558,7 +558,7 @@
         {
           "sentences": [
             {
-              "text": "Born on 25 December 1961 in La Caverne, a suburb area in Vacoas-Phoenix, Mauritius, Jugnauth was born into a Hindu Ahir family.",
+              "text": "Born on 25 December 1961 in La Caverne, a suburb area in Vacoas-Phoenix, Mauritius, Jugnauth was born into a Hindu family.",
               "links": [
                 {
                   "type": "internal",
@@ -572,10 +572,6 @@
                   "text": "Hindu",
                   "type": "internal",
                   "page": "Hindus"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ahir"
                 }
               ]
             },
